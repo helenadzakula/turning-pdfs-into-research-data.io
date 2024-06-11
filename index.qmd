@@ -1,0 +1,15 @@
+With Jack Collins
+
+Online, Starting Aug 27, 2024
+
+![](images/Logo_BERD_Academy(1).png)
+
+# Overview {.unnumbered}
+
+Do you ever feel that the data you need for your research is accessible but it's not in a convenient table, such as company reports or building plans?
+
+Perhaps the information you need is spread out across many different documents?
+
+If only we could read and extract structured data from thousands of written documents.
+
+In this course, we explore how to accomplish this task by combining web scraping, Optical Character Recognition (OCR), and Natural Language Processing (NLP). Over four weeks, we provide online lessons and interactive sessions to learn the fundamentals of these key technologies.

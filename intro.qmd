@@ -1,0 +1,43 @@
+# Introduction {.unnumbered}
+
+Welcome to the course "Turning PDFs into Research Data".
+
+BERD Academy is part of BERD\@NFDI; funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) -- 460037581
+
+## Topics
+
+-   Methods for extracting text and files from websites using tools such as **Selenium** and how to avoid common pitfalls.
+-   Methods for extracting text from images, such as scans of written documents.
+-   Exploring technologies that can help automate data extraction from harvested text and a critical review of common data quality issues.
+
+## Format
+
+This is an online course.
+
+-   **Week 1**: Watch pre-prepared video lectures about relevant theory and demonstration of example exercises. The topic is web scraping and OCR (\~45 min). Interactive Online Session (\~60 min).
+-   **Week 2**: Applying last week's lessons to the example coding exercise or your own project (\~30 min). Interactive Online Session (\~60 min).
+-   **Week 3**: Watch pre-prepared video lectures about relevant theory and demonstration of example exercises. The topic is NLP and common data extract issues (\~30 min). Interactive Online Session (\~60 min).
+-   **Week 4**: Applying last week's lessons to the example coding exercise or your own project (\~30 min). Interactive Online Session (\~60 min).
+
+## Weekly Meetings
+
+The course includes 4 live Online Meetings, in which you will discuss the week's contents with the instructor and fellow participants:
+
+-   Meeting 1: **Aug 27**, 2024, 4:30pm -- 5:30pm CEST
+-   Meeting 2: **Sep 03**, 2024, 4:30pm -- 5:30pm CEST
+-   Meeting 3: **Sep 10**, 2024, 4:30pm -- 5:30pm CEST
+-   Meeting 4: **Sep 17**, 2024, 4:30pm -- 5:30pm CEST
+
+## Prerequisites
+
+-   Basic programming knowledge (R, python, ...)
+
+    -   Note that the course will be in Python, but if you only know R, this is still ok! The code examples are simple and will run entirely on [Google Colab](https://colab.research.google.com/), meaning you will not have to install anything. This course will make a good opportunity to try Python for the first time and you can also try the self-paced [BERD introduction to Python course](https://www.berd-nfdi.de/berd-academy/data-science-with-python/).
+
+-   Willingness to learn new technical skills
+
+-   A [Google Account](https://support.google.com/accounts/answer/27441?hl=en)
+
+## About the Instructor
+
+[John 'Jack' Collins](https://www.uni-mannheim.de/gess/programs/cdss/our-students/2022/john-jack-collins/) is a PhD Student in Sociology at the Graduate School of Economic and Social Sciences. He holds a Bachelor's of Sociology with Honours from the Australian National University. Jack has a Master's degree in Data Science from James Cook University. His Master's project was regarding predictive modelling for student attrition from sub-tertiary courses in Australia. During his Master's studies, he also assisted in research projects regarding social attitudes and voting behaviour in Australia. Before starting PhD, Jack was a Senior IT Consultant specialising in data engineering, analytics and software development. Jack is interested in applying Data Science and IT to sociological research, particularly with regard to machine learning, analytics, and web applications.
