@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Berd course booklet: Turning PDFs into Research Data",
+    "section": "",
+    "text": "With Jack Collins\nOnline, Starting Aug 27, 2024\n\n\nOverview\nDo you ever feel that the data you need for your research is accessible but it’s not in a convenient table, such as company reports or building plans?\nPerhaps the information you need is spread out across many different documents?\nIf only we could read and extract structured data from thousands of written documents.\nIn this course, we explore how to accomplish this task by combining web scraping, Optical Character Recognition (OCR), and Natural Language Processing (NLP). Over four weeks, we provide online lessons and interactive sessions to learn the fundamentals of these key technologies."
+  },
+  {
+    "objectID": "intro.html#topics",
+    "href": "intro.html#topics",
+    "title": "Introduction",
+    "section": "Topics",
+    "text": "Topics\n\nMethods for extracting text and files from websites using tools such as Selenium and how to avoid common pitfalls.\nMethods for extracting text from images, such as scans of written documents.\nExploring technologies that can help automate data extraction from harvested text and a critical review of common data quality issues."
+  },
+  {
+    "objectID": "intro.html#format",
+    "href": "intro.html#format",
+    "title": "Introduction",
+    "section": "Format",
+    "text": "Format\nThis is an online course.\n\nWeek 1: Watch pre-prepared video lectures about relevant theory and demonstration of example exercises. The topic is web scraping and OCR (~45 min). Interactive Online Session (~60 min).\nWeek 2: Applying last week’s lessons to the example coding exercise or your own project (~30 min). Interactive Online Session (~60 min).\nWeek 3: Watch pre-prepared video lectures about relevant theory and demonstration of example exercises. The topic is NLP and common data extract issues (~30 min). Interactive Online Session (~60 min).\nWeek 4: Applying last week’s lessons to the example coding exercise or your own project (~30 min). Interactive Online Session (~60 min)."
+  },
+  {
+    "objectID": "intro.html#weekly-meetings",
+    "href": "intro.html#weekly-meetings",
+    "title": "Introduction",
+    "section": "Weekly Meetings",
+    "text": "Weekly Meetings\nThe course includes 4 live Online Meetings, in which you will discuss the week’s contents with the instructor and fellow participants:\n\nMeeting 1: Aug 27, 2024, 4:30pm – 5:30pm CEST\nMeeting 2: Sep 03, 2024, 4:30pm – 5:30pm CEST\nMeeting 3: Sep 10, 2024, 4:30pm – 5:30pm CEST\nMeeting 4: Sep 17, 2024, 4:30pm – 5:30pm CEST"
+  },
+  {
+    "objectID": "intro.html#prerequisites",
+    "href": "intro.html#prerequisites",
+    "title": "Introduction",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nBasic programming knowledge (R, python, …)\n\nNote that the course will be in Python, but if you only know R, this is still ok! The code examples are simple and will run entirely on Google Colab, meaning you will not have to install anything. This course will make a good opportunity to try Python for the first time and you can also try the self-paced BERD introduction to Python course.\n\nWillingness to learn new technical skills\nA Google Account"
+  },
+  {
+    "objectID": "intro.html#about-the-instructor",
+    "href": "intro.html#about-the-instructor",
+    "title": "Introduction",
+    "section": "About the Instructor",
+    "text": "About the Instructor\nJohn ‘Jack’ Collins is a PhD Student in Sociology at the Graduate School of Economic and Social Sciences. He holds a Bachelor’s of Sociology with Honours from the Australian National University. Jack has a Master’s degree in Data Science from James Cook University. His Master’s project was regarding predictive modelling for student attrition from sub-tertiary courses in Australia. During his Master’s studies, he also assisted in research projects regarding social attitudes and voting behaviour in Australia. Before starting PhD, Jack was a Senior IT Consultant specialising in data engineering, analytics and software development. Jack is interested in applying Data Science and IT to sociological research, particularly with regard to machine learning, analytics, and web applications."
+  },
+  {
+    "objectID": "Unit1-meeting.html",
+    "href": "Unit1-meeting.html",
+    "title": "U1 Meeting",
+    "section": "",
+    "text": "Meeting 1: Aug 27, 2024, 4:30pm – 5:30pm CEST"
+  }
+]
