@@ -42,10 +42,73 @@
     "text": "About the Instructor\nJohn ‘Jack’ Collins is a PhD Student in Sociology at the Graduate School of Economic and Social Sciences. He holds a Bachelor’s of Sociology with Honours from the Australian National University. Jack has a Master’s degree in Data Science from James Cook University. His Master’s project was regarding predictive modelling for student attrition from sub-tertiary courses in Australia. During his Master’s studies, he also assisted in research projects regarding social attitudes and voting behaviour in Australia. Before starting PhD, Jack was a Senior IT Consultant specialising in data engineering, analytics and software development. Jack is interested in applying Data Science and IT to sociological research, particularly with regard to machine learning, analytics, and web applications."
   },
   {
+    "objectID": "intro.html#what-to-prepare",
+    "href": "intro.html#what-to-prepare",
+    "title": "Introduction",
+    "section": "What to prepare",
+    "text": "What to prepare\n\nIf you want to code in Python, you will need a Google account so you can use Google Colab. You may also need to use your Google Account to open an account with Llama AI. We will do this together during the course if necessary, so no need to prepare beforehand."
+  },
+  {
+    "objectID": "Unit1.html",
+    "href": "Unit1.html",
+    "title": "Unit 1",
+    "section": "",
+    "text": "In this unit, you will be introduced to web scraping and learn the theory of how bots are designed to harvest PDFs from websites. In the interactive session, we can introduce our own contexts, and if you have your own scraping project in mind, we can begin to plan how we will approach the problem."
+  },
+  {
+    "objectID": "Unit1-videos.html",
+    "href": "Unit1-videos.html",
+    "title": "U1 Videos",
+    "section": "",
+    "text": "Video One: Course Introduction\n\n\n\n\nVideo Two: Introduction to Web Scraping\n\n\n\n\nVideo Three: How websites work\n\n\n\n\nVideo Four: Inspecting a Website\n\n\n\n\nVideo Five: Things to Know"
+  },
+  {
     "objectID": "Unit1-meeting.html",
     "href": "Unit1-meeting.html",
     "title": "U1 Meeting",
     "section": "",
     "text": "Meeting 1: Aug 27, 2024, 4:30pm – 5:30pm CEST"
+  },
+  {
+    "objectID": "Unit2.html",
+    "href": "Unit2.html",
+    "title": "Unit 2",
+    "section": "",
+    "text": "In this unit, you will see a practical example of building a web scraper bot, and you may attempt to apply what you’ve learned to your own context. In the interactive sessions, we can discuss any obstacles you’re encountering in your own project."
+  },
+  {
+    "objectID": "Unit2-videos.html",
+    "href": "Unit2-videos.html",
+    "title": "U2 Videos",
+    "section": "",
+    "text": "video: Code Demonstration"
+  },
+  {
+    "objectID": "Unit3.html",
+    "href": "Unit3.html",
+    "title": "Unit 3",
+    "section": "",
+    "text": "In this unit, you will learn how text is extracted from PDFs, especially with Optical Character Recognition. We will learn the theory of how Natural Language Processing (NLP) and LLM tools extract data from text. In the interactive session, you may discuss obstacles you are facing with your own project."
+  },
+  {
+    "objectID": "Unit3-videos.html",
+    "href": "Unit3-videos.html",
+    "title": "U3 Videos",
+    "section": "",
+    "text": "Video One: Overview\n\n\n\n\nVideo Two: Text Extraction\n\n\n\n\nVideo Three: Keyword Extraction\n\n\n\n\nVideo Four: AI for Data Extraction"
+  },
+  {
+    "objectID": "Unit4.html",
+    "href": "Unit4.html",
+    "title": "Unit 4",
+    "section": "",
+    "text": "In this unit, you will follow along with a practical example of extracting structured data from a set of documents. In the interactive session, you may discuss obstacles you are facing with your own project."
+  },
+  {
+    "objectID": "Unit4-videos.html",
+    "href": "Unit4-videos.html",
+    "title": "U4 Videos",
+    "section": "",
+    "text": "Video: Code Demonstration"
   }
 ]
