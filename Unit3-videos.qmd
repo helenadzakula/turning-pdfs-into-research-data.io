@@ -1,1 +1,18 @@
 ## U3 Videos {.unnumbered}
+
+### Video One: Overview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gTV1dLAOd0c?si=x5lLmFH0j_KCtpMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Video Two: Text Extraction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zv5Z-enVf9A?si=MYfD6WWWQPOYbSiK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Video Three: Keyword Extraction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DccGZTwzV_o?si=zAeYhoo1Rl7eIwrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Video Four: AI for Data Extraction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BBuoQ4uCT84?si=hOkD3suW5oGl0EMP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
