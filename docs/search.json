@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Berd course booklet: Turning PDFs into Research Data",
+    "title": "Turning PDFs into Research Data",
     "section": "",
     "text": "With Jack Collins\nOnline, Starting Aug 27, 2024\n\n\nOverview\nDo you ever feel that the data you need for your research is accessible but it’s not in a convenient table, such as company reports or building plans?\nPerhaps the information you need is spread out across many different documents?\nIf only we could read and extract structured data from thousands of written documents.\nIn this course, we explore how to accomplish this task by combining web scraping, Optical Character Recognition (OCR), and Natural Language Processing (NLP). Over four weeks, we provide online lessons and interactive sessions to learn the fundamentals of these key technologies."
   },
@@ -60,14 +60,21 @@
     "href": "Unit1-videos.html",
     "title": "U1 Videos",
     "section": "",
-    "text": "Video One: Course Introduction\n\n\n\n\nVideo Two: Introduction to Web Scraping\n\n\n\n\nVideo Three: How websites work\n\n\n\n\nVideo Four: Inspecting a Website\n\n\n\n\nVideo Five: Things to Know"
+    "text": "Unit 1-1: Course Introduction\n\n\n\n\nUnit 1-2: Introduction to Web Scraping\n\n\n\n\nUnit 1-3: How Websites work\n\n\n\n\nUnit 1-4: Inspecting a Website\n\n\n\n\nUnit 1-5: Things to Know"
+  },
+  {
+    "objectID": "Unit1-slides.html",
+    "href": "Unit1-slides.html",
+    "title": "U1 Slides",
+    "section": "",
+    "text": "Please find the slides for Unit 1 here"
   },
   {
     "objectID": "Unit1-meeting.html",
     "href": "Unit1-meeting.html",
     "title": "U1 Meeting",
     "section": "",
-    "text": "Meeting 1: Aug 27, 2024, 4:30pm – 5:30pm CEST"
+    "text": "Meeting 1: Aug 27, 2024, 4:30pm – 5:30pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail."
   },
   {
     "objectID": "Unit2.html",
@@ -81,7 +88,14 @@
     "href": "Unit2-videos.html",
     "title": "U2 Videos",
     "section": "",
-    "text": "video: Code Demonstration"
+    "text": "Unit 2: Code Demonstration"
+  },
+  {
+    "objectID": "Unit2-meeting.html",
+    "href": "Unit2-meeting.html",
+    "title": "U2 Meeting",
+    "section": "",
+    "text": "Meeting 2: Sep 03, 2024, 4:30pm – 5:30pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail."
   },
   {
     "objectID": "Unit3.html",
@@ -95,7 +109,21 @@
     "href": "Unit3-videos.html",
     "title": "U3 Videos",
     "section": "",
-    "text": "Video One: Overview\n\n\n\n\nVideo Two: Text Extraction\n\n\n\n\nVideo Three: Keyword Extraction\n\n\n\n\nVideo Four: AI for Data Extraction"
+    "text": "Unit 3-1: Overview\n\n\n\n\nUnit 3-2: Text Extraction\n\n\n\n\nUnit 3-3: Keyword Extraction\n\n\n\n\nUnit 3-4: AI for Data Extraction"
+  },
+  {
+    "objectID": "Unit3-slides.html",
+    "href": "Unit3-slides.html",
+    "title": "U3 Slides",
+    "section": "",
+    "text": "Please find the slides for Unit 1 here"
+  },
+  {
+    "objectID": "Unit3-meeting.html",
+    "href": "Unit3-meeting.html",
+    "title": "U3 Meeting",
+    "section": "",
+    "text": "Meeting 3: Sep 10, 2024, 4:30pm – 5:30pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail."
   },
   {
     "objectID": "Unit4.html",
@@ -109,6 +137,13 @@
     "href": "Unit4-videos.html",
     "title": "U4 Videos",
     "section": "",
-    "text": "Video: Code Demonstration"
+    "text": "Unit 4: Code Demonstration"
+  },
+  {
+    "objectID": "Unit4-meeting.html",
+    "href": "Unit4-meeting.html",
+    "title": "U4 Meeting",
+    "section": "",
+    "text": "Meeting 4: Sep 17, 2024, 4:30pm – 5:30pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail."
   }
 ]
