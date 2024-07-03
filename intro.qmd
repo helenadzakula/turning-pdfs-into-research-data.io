@@ -44,5 +44,56 @@ The course includes 4 live Online Meetings, in which you will discuss the week's
 
 ## What to prepare
 
-- If you want to code in Python, you will need a Google account so you can use [Google Colab](https://colab.research.google.com/).
-You may also need to use your Google Account to open an account with [Llama AI](https://console.llama-api.com/). We will do this together during the course if necessary, so no need to prepare beforehand.
+-   If you want to code in Python, you will need a Google account so you can use [Google Colab](https://colab.research.google.com/). You may also need to use your Google Account to open an account with [Llama AI](https://console.llama-api.com/). We will do this together during the course if necessary, so no need to prepare beforehand.
+
+## Course Materials
+
+-   An example single PDF \[Please link to 'Gemeinde_Kirchheim_Sportsfield.pdf' once uploaded\]
+-   For those students who don;t have a particular project of their own, here's a PDF you could practise with: <https://arxiv.org/abs/2205.14135>
+-   A zipped file of many examples PDFs \[Please link to 'pdf.zip' once uploaded\]
+
+## Readings and external resources
+
+-   (optional content) If you want to understand Large Language Models (LLM) on a more technical level, this makes an excellent visual overview of the mathematics involved.
+
+    3Blue1Brown (Director). (2024, April 1). But what is a GPT? Visual intro to transformers \| Chapter 5, Deep Learning. <https://www.youtube.com/watch?v=wjZofJX0v4M>
+
+-   (optional content) If you want a more advanced discussion of web scraping, this is a dedicated textbook (not necessary for this course).
+
+    Automated Data Collection with R: A Practical Guide to Web Scraping and Text Mining \| Wiley. (n.d.). Wiley.Com. Retrieved 3 June 2024, from <https://www.wiley.com/en-us/Automated+Data+Collection+with+R%3A+A+Practical+Guide+to+Web+Scraping+and+Text+Mining-p-9781118834817>
+
+-   The applied examples from this course are based on work by a team of researchers from this project.
+
+    DSSGxMunich/land-sealing-dataset-and-analysis: This repo offers the code developed during DSSGx Munich 2023 for producing and analysing a comprehensive dataset about land parcels from the state of NRW in Germany. (n.d.). Retrieved 3 June 2024, from <https://github.com/DSSGxMunich/land-sealing-dataset-and-analysis>
+
+-   Using an AI 'BERT' to classify open-ended text with some pre-training of BERT involved.
+
+    Gweon, H., & Schonlau, M. (2024). Automated classification for open-ended questions with BERT. Journal of Survey Statistics and Methodology, 12(2), 493--504. <https://doi.org/10.1093/jssam/smad015>
+
+-   Comparing LLMs to dedicated Named Entity Extraction Deep Learners.
+
+    How effective are large language models in named entity extraction compared to traditional machine learning algorithms? \| 10 Answers from Research papers. (n.d.). SciSpace - Question. Retrieved 3 June 2024, from <https://typeset.io/questions/how-effective-are-large-language-models-in-named-entity-p29rfup468>
+
+-   This researcher conducted the web scraping project which supplies many examples in this course.
+
+    ldmnch. (2024). Ldmnch/bavaria-building-plans-digitalization \[Jupyter Notebook\]. <https://github.com/ldmnch/bavaria-building-plans-digitalization> (Original work published 2023)
+
+-   Comparison of several OCR tools.
+
+    OCR in 2024: Benchmarking Text Extraction/Capture Accuracy. (n.d.). AIMultiple: High Tech Use Cases & Tools to Grow Your Business. Retrieved 3 June 2024, from <https://research.aimultiple.com/ocr-accuracy/>
+
+-   Free web article providing detailed code examples of web scraping in Python.
+
+    Python, R. (n.d.). A Practical Introduction to Web Scraping in Python -- Real Python. Retrieved 3 June 2024, from <https://realpython.com/python-web-scraping-practical-introduction/>
+
+-   Website designed to help developers practice web scraping.
+
+    Test Sites \| Web Scraper. (n.d.). Retrieved 3 June 2024, from <https://webscraper.io/test-sites>
+
+-   Comparison of several industry solutions for extracting data from open text.
+
+    Top AI Apps & Tools for Document data extraction. (n.d.). Deepgram. Retrieved 3 June 2024, from <https://deepgram.com/ai-apps>
+
+-   Introduction to 'Nougat' an OCR model especially for parsing tables and equations in academic papers.
+
+    <https://facebookresearch.github.io/nougat/>

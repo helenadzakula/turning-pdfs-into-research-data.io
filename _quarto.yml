@@ -12,7 +12,6 @@ book:
     - Unit1-videos.qmd
     - Unit1-slides.qmd
     - Unit1-readings.qmd
-    - Unit1-assignment.qmd
     - Unit1-meeting.qmd
   - part: Unit2.qmd
     chapters: 
@@ -25,8 +24,8 @@ book:
     - Unit3-videos.qmd
     - Unit3-slides.qmd
     - Unit3-readings.qmd
-    - Unit3-assignment.qmd
     - Unit3-meeting.qmd
+    - Supplementary.qmd
   - part: Unit4.qmd
     chapters:
     - Unit4-videos.qmd
