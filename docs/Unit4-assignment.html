@@ -155,12 +155,6 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit1-assignment.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">U1 Assignment</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./Unit1-meeting.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">U1 Meeting</span></a>
   </div>
@@ -231,14 +225,14 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit3-assignment.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">U3 Assignment</span></a>
+  <a href="./Unit3-meeting.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">U3 Meeting</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Unit3-meeting.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">U3 Meeting</span></a>
+  <a href="./Supplementary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Supplementary</span></a>
   </div>
 </li>
       </ul>
@@ -284,7 +278,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#errors-you-might-encounter" id="toc-errors-you-might-encounter" class="nav-link active" data-scroll-target="#errors-you-might-encounter">Errors you might encounter</a></li>
+  <li><a href="#exercise" id="toc-exercise" class="nav-link" data-scroll-target="#exercise">Exercise</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -306,8 +307,23 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p><a href="https://colab.research.google.com/drive/1tZhLAzY6wDdlOVDcdPO2uH7oWLTkKKwh?usp=sharing">Example Notebook</a></p>
+<p><strong>To copy this code and run it yourself, click the link above and navigate: “file &gt; save a copy in Drive”</strong></p>
+<section id="errors-you-might-encounter" class="level3">
+<h3 class="anchored" data-anchor-id="errors-you-might-encounter">Errors you might encounter</h3>
+<ul>
+<li>File not found: Be sure to upload the example PDF. If you want to run the LLMs, you must get a Llama AI API key, save it to a .txt file named ‘key,’ and upload that, too.</li>
+<li>Model does not exist: You have most likely exceeded your API key balance. Talk to the instructor.</li>
+<li>JSON DECODER EXCEPTION: This seems to be a periodic problem with the Llama API, where inputs above a certain length return an empty JSON. Either try shortening your input or wait several minutes and try again.</li>
+</ul>
+</section>
+<section id="exercise" class="level3">
+<h3 class="anchored" data-anchor-id="exercise">Exercise</h3>
+<p>If you have a specific project of your own, find some example documents and define the data you wish to extract. Use the provided Llama API key (you will only have a small 5$ budget, so be careful) to engineer some prompts of your own and try to extract the desired text. Try a few different prompts and analyze the results for errors. We will discuss your experience in class.</p>
+<p>If you do not have a project of your own, look through the provided PDFs. The context for these PDFs is as follows. Across Bavaria, local municipalities provide websites on which can be found scans of applications for building on plots of land. Some of these documents are those ‘building plans,’ but others are supporting or unrelated documents that happened to be linked on those web pages. The task is to iterate through these PDFs and accurately record the regulations and policies by name cited in the building plans. That includes identifying when a document is not a building plan. Most important are the regulations regarding the maximum approved building height and around risk mitigation for flooding risks. Also important is the predicted frequency of major floods that occur in the area. The challenge is to see if you can engineer some prompts that effectively extract these details while minimizing false positives (claims that a certain text is present but is not) and false negatives (where regulations are mentioned, but the system doesn’t detect them). Remember that this is not a graded exercise but rather a practice session for you to experience the kinds of issues that occur in real-world examples.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

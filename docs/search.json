@@ -49,6 +49,20 @@
     "text": "What to prepare\n\nIf you want to code in Python, you will need a Google account so you can use Google Colab. You may also need to use your Google Account to open an account with Llama AI. We will do this together during the course if necessary, so no need to prepare beforehand."
   },
   {
+    "objectID": "intro.html#course-materials",
+    "href": "intro.html#course-materials",
+    "title": "Introduction",
+    "section": "Course Materials",
+    "text": "Course Materials\n\nAn example single PDF [Please link to ‘Gemeinde_Kirchheim_Sportsfield.pdf’ once uploaded]\nFor those students who don;t have a particular project of their own, here’s a PDF you could practise with: https://arxiv.org/abs/2205.14135\nA zipped file of many examples PDFs [Please link to ‘pdf.zip’ once uploaded]"
+  },
+  {
+    "objectID": "intro.html#readings-and-external-resources",
+    "href": "intro.html#readings-and-external-resources",
+    "title": "Introduction",
+    "section": "Readings and external resources",
+    "text": "Readings and external resources\n\n(optional content) If you want to understand Large Language Models (LLM) on a more technical level, this makes an excellent visual overview of the mathematics involved.\n3Blue1Brown (Director). (2024, April 1). But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning. https://www.youtube.com/watch?v=wjZofJX0v4M\n(optional content) If you want a more advanced discussion of web scraping, this is a dedicated textbook (not necessary for this course).\nAutomated Data Collection with R: A Practical Guide to Web Scraping and Text Mining | Wiley. (n.d.). Wiley.Com. Retrieved 3 June 2024, from https://www.wiley.com/en-us/Automated+Data+Collection+with+R%3A+A+Practical+Guide+to+Web+Scraping+and+Text+Mining-p-9781118834817\nThe applied examples from this course are based on work by a team of researchers from this project.\nDSSGxMunich/land-sealing-dataset-and-analysis: This repo offers the code developed during DSSGx Munich 2023 for producing and analysing a comprehensive dataset about land parcels from the state of NRW in Germany. (n.d.). Retrieved 3 June 2024, from https://github.com/DSSGxMunich/land-sealing-dataset-and-analysis\nUsing an AI ‘BERT’ to classify open-ended text with some pre-training of BERT involved.\nGweon, H., & Schonlau, M. (2024). Automated classification for open-ended questions with BERT. Journal of Survey Statistics and Methodology, 12(2), 493–504. https://doi.org/10.1093/jssam/smad015\nComparing LLMs to dedicated Named Entity Extraction Deep Learners.\nHow effective are large language models in named entity extraction compared to traditional machine learning algorithms? | 10 Answers from Research papers. (n.d.). SciSpace - Question. Retrieved 3 June 2024, from https://typeset.io/questions/how-effective-are-large-language-models-in-named-entity-p29rfup468\nThis researcher conducted the web scraping project which supplies many examples in this course.\nldmnch. (2024). Ldmnch/bavaria-building-plans-digitalization [Jupyter Notebook]. https://github.com/ldmnch/bavaria-building-plans-digitalization (Original work published 2023)\nComparison of several OCR tools.\nOCR in 2024: Benchmarking Text Extraction/Capture Accuracy. (n.d.). AIMultiple: High Tech Use Cases & Tools to Grow Your Business. Retrieved 3 June 2024, from https://research.aimultiple.com/ocr-accuracy/\nFree web article providing detailed code examples of web scraping in Python.\nPython, R. (n.d.). A Practical Introduction to Web Scraping in Python – Real Python. Retrieved 3 June 2024, from https://realpython.com/python-web-scraping-practical-introduction/\nWebsite designed to help developers practice web scraping.\nTest Sites | Web Scraper. (n.d.). Retrieved 3 June 2024, from https://webscraper.io/test-sites\nComparison of several industry solutions for extracting data from open text.\nTop AI Apps & Tools for Document data extraction. (n.d.). Deepgram. Retrieved 3 June 2024, from https://deepgram.com/ai-apps\nIntroduction to ‘Nougat’ an OCR model especially for parsing tables and equations in academic papers.\nhttps://facebookresearch.github.io/nougat/"
+  },
+  {
     "objectID": "Unit1.html",
     "href": "Unit1.html",
     "title": "Unit 1",
@@ -70,6 +84,13 @@
     "text": "Please find the slides for Unit 1 here"
   },
   {
+    "objectID": "Unit1-readings.html",
+    "href": "Unit1-readings.html",
+    "title": "U1 Readings",
+    "section": "",
+    "text": "Free web article providing detailed code examples of web scraping in Python. Python, R. (n.d.). A Practical Introduction to Web Scraping in Python – Real Python. Retrieved 3 June 2024, from https://realpython.com/python-web-scraping-practical-introduction/"
+  },
+  {
     "objectID": "Unit1-meeting.html",
     "href": "Unit1-meeting.html",
     "title": "U1 Meeting",
@@ -89,6 +110,20 @@
     "title": "U2 Videos",
     "section": "",
     "text": "Unit 2: Code Demonstration"
+  },
+  {
+    "objectID": "Unit2-readings.html",
+    "href": "Unit2-readings.html",
+    "title": "U2 Readings",
+    "section": "",
+    "text": "Another web article provides a good introduction to web scraping: https://www.geeksforgeeks.org/introduction-to-web-scraping/"
+  },
+  {
+    "objectID": "Unit2-assignment.html",
+    "href": "Unit2-assignment.html",
+    "title": "U2 Assignment",
+    "section": "",
+    "text": "Example Notebook\nTo copy this code and run it yourself, click the link above and navigate: “file &gt; save a copy in Drive”\n\nErrors you might Encounter:\nIf you encounter any of the following errors when trying to run the colab notebook, try these troubleshoots.\n\nMax Retries Exceeded: Sometimes caused by running some code chunks, pausing, and then running others. Wait a few minutes, then Do ‘Runtime &gt; Restart Session and Run All’\nContent not found: For each statement time.sleep(10) change the 10 to 20.\n\n\n\nExercise\n\nRead through the Colab notebook.\nIf you have a website from your own project that you are interested in scraping, you may develop your own scraping code and present it in the interactive sessions. You may also share it with the course instructor and ask for feedback.\nIf you don’t have an example from your own project, here is a collection of example websites for scraping: https://webscraper.io/test-sites. You may build your own web scraper, or if you’d like an assigned task, try to extract the name and price of each laptop found on this site. You will need to press the ‘more’ button via your scraper bot to do this."
   },
   {
     "objectID": "Unit2-meeting.html",
@@ -119,11 +154,25 @@
     "text": "Please find the slides for Unit 1 here"
   },
   {
+    "objectID": "Unit3-readings.html",
+    "href": "Unit3-readings.html",
+    "title": "U3 Readings",
+    "section": "",
+    "text": "Comparison of several OCR tools. OCR in 2024: Benchmarking Text Extraction/Capture Accuracy. (n.d.). AIMultiple: High Tech Use Cases & Tools to Grow Your Business. Retrieved 3 June 2024, from:\nhttps://research.aimultiple.com/ocr-accuracy/\nIntroduction to ‘Nougat’ an OCR model especially for parsing tables and equations in academic papers:\nhttps://facebookresearch.github.io/nougat/\nUsing an AI ‘BERT’ to classify open-ended text with some pre-training of BERT involved. Gweon, H., & Schonlau, M. (2024). Automated classification for open-ended questions with BERT. Journal of Survey Statistics and Methodology, 12(2), 493–504:\nhttps://doi.org/10.1093/jssam/smad015"
+  },
+  {
     "objectID": "Unit3-meeting.html",
     "href": "Unit3-meeting.html",
     "title": "U3 Meeting",
     "section": "",
     "text": "Meeting 3: Sep 10, 2024, 4:30pm – 5:30pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail."
+  },
+  {
+    "objectID": "Supplementary.html",
+    "href": "Supplementary.html",
+    "title": "Supplementary",
+    "section": "",
+    "text": "May students have expressed particular interest in extracting tables from PDFs. For this, I will present here some tools for the specific use case. If your PDF is actually a set of images (as we discuss in this Unit), you might try ‘Nougat’ by Meta.\nIf interested, you can also view the following Colab notebook and video demonstration.\n\nVideo Demonstration of Nougat\n\n\n\n\nExample Notebook for Nougat\n\nIf your PDFs have the PostScript content intact, you might consider the relatively simpler Camelot package."
   },
   {
     "objectID": "Unit4.html",
@@ -138,6 +187,20 @@
     "title": "U4 Videos",
     "section": "",
     "text": "Unit 4: Code Demonstration"
+  },
+  {
+    "objectID": "Unit4-readings.html",
+    "href": "Unit4-readings.html",
+    "title": "U4 Readings",
+    "section": "",
+    "text": "Comparison of several industry solutions for extracting data from open text. Top AI Apps & Tools for Document data extraction. (n.d.). Deepgram. Retrieved 3 June 2024, from:\nhttps://deepgram.com/ai-apps\nComparing LLMs to dedicated Named Entity Extraction Deep Learners. How effective are large language models in named entity extraction compared to traditional machine learning algorithms? | 10 Answers from Research papers. (n.d.). SciSpace - Question. Retrieved 3 June 2024, from:\nhttps://typeset.io/questions/how-effective-are-large-language-models-in-named-entity-p29rfup468"
+  },
+  {
+    "objectID": "Unit4-assignment.html",
+    "href": "Unit4-assignment.html",
+    "title": "U4 Assignment",
+    "section": "",
+    "text": "Example Notebook\nTo copy this code and run it yourself, click the link above and navigate: “file &gt; save a copy in Drive”\n\nErrors you might encounter\n\nFile not found: Be sure to upload the example PDF. If you want to run the LLMs, you must get a Llama AI API key, save it to a .txt file named ‘key,’ and upload that, too.\nModel does not exist: You have most likely exceeded your API key balance. Talk to the instructor.\nJSON DECODER EXCEPTION: This seems to be a periodic problem with the Llama API, where inputs above a certain length return an empty JSON. Either try shortening your input or wait several minutes and try again.\n\n\n\nExercise\nIf you have a specific project of your own, find some example documents and define the data you wish to extract. Use the provided Llama API key (you will only have a small 5$ budget, so be careful) to engineer some prompts of your own and try to extract the desired text. Try a few different prompts and analyze the results for errors. We will discuss your experience in class.\nIf you do not have a project of your own, look through the provided PDFs. The context for these PDFs is as follows. Across Bavaria, local municipalities provide websites on which can be found scans of applications for building on plots of land. Some of these documents are those ‘building plans,’ but others are supporting or unrelated documents that happened to be linked on those web pages. The task is to iterate through these PDFs and accurately record the regulations and policies by name cited in the building plans. That includes identifying when a document is not a building plan. Most important are the regulations regarding the maximum approved building height and around risk mitigation for flooding risks. Also important is the predicted frequency of major floods that occur in the area. The challenge is to see if you can engineer some prompts that effectively extract these details while minimizing false positives (claims that a certain text is present but is not) and false negatives (where regulations are mentioned, but the system doesn’t detect them). Remember that this is not a graded exercise but rather a practice session for you to experience the kinds of issues that occur in real-world examples."
   },
   {
     "objectID": "Unit4-meeting.html",
