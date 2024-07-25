@@ -40,14 +40,11 @@ book:
 #    logo: images/Logo_BERD_Academy.png
     
 # we can add this 
-#  page-footer:
-#    center: 
-#     - text: "License"
-#       href: license.qmd
-#     - text: "Booklet source"
-#       href: https://github.com/BERD-NFDI/BERD-reproducible-research-course
-#     - text: "Impressum"
-#       href: impressum.qmd
+  page-footer:
+    center: 
+     
+     - text: "Impressum"
+       href: impressum.qmd
 
 # bibliography: references.bib
 
