@@ -4,6 +4,8 @@ Welcome to the course "Turning PDFs into Research Data".
 
 BERD Academy is part of BERD\@NFDI; funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) -- 460037581
 
+If not indicated otherwise, the contents of this course are licensed under CC BY 4.0 NC
+
 ## Topics
 
 -   Methods for extracting text and files from websites using tools such as **Selenium** and how to avoid common pitfalls.
