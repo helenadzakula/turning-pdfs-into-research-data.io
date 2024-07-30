@@ -50,9 +50,9 @@ The course includes 4 live Online Meetings, in which you will discuss the week's
 
 ## Course Materials
 
--   An example single PDF \[Please link to 'Gemeinde_Kirchheim_Sportsfield.pdf' once uploaded\]
+-   [An example single PDF](https://github.com/BERD-NFDI/turning-pdfs-into-research-data.io/blob/e52796ed0800105ded224ec691ddaf0c415f128d/docs/Gemeinde_Kirchheim_Sportsfield.pdf)
 -   For those students who don;t have a particular project of their own, here's a PDF you could practise with: <https://arxiv.org/abs/2205.14135>
--   A zipped file of many examples PDFs \[Please link to 'pdf.zip' once uploaded\]
+-   [A zipped file of many examples PDFs](https://github.com/BERD-NFDI/turning-pdfs-into-research-data.io/blob/e52796ed0800105ded224ec691ddaf0c415f128d/docs/pdfs.zip)
 
 ## Readings and external resources
 
